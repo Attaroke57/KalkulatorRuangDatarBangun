@@ -46,7 +46,7 @@ public class bangunRuang extends Fragment  implements Adapter.ItemClickListener 
         listDataMakanan.add(Bngun3);
 
         Data Bngun4 = new Data();
-        Bngun4.setJudul("Persegi");
+        Bngun4.setJudul("Tabung");
         Bngun4.setImageUrl("https://akupintar.id/documents/portlet_file_entry/20143/1+%288%29.png/78981bbc-9482-c8fe-17f8-d53578cd41c4?imagePreview=1");
         listDataMakanan.add(Bngun4);
 
